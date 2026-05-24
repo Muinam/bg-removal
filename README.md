@@ -1,6 +1,5 @@
 # bg-removal
-## Hello pakistan
-
+AOA
 
 
 ## AI DevOps Orchestrator Test
