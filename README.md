@@ -13,13 +13,4 @@ kiya hal ha
 update 
 ### new update
 
--------------------------------
-update 
-## Soft winds whisper drifting by.
-## Stars awake with silver gleam,
-
-## aoa
-
-
-ya ya 
-again changes
+whats up baby
