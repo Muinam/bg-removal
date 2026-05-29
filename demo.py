@@ -8,3 +8,7 @@ f = ["Banana", "orange", "mango"]
 
 for x in f:
     print(x)
+    print("Hello World")
+    if (x=="mango"):
+        break
+print("Exit")
