@@ -4,3 +4,7 @@ print(a*b, a+b, a-b, a/b, a**b, b**a, b-a, a%b, a//b)
 print(f"Add two number: {a+a}")
 print("Hello World")
 
+f = ["Banana", "orange", "mango"]
+
+for x in f:
+    print(x)
