@@ -7,3 +7,4 @@ print("hello world")
 print("Kiya hal ha pakistan")
 
 print("python")
+print("kiya ho rha ha")
