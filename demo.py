@@ -5,3 +5,5 @@ print(f"what is the value of {a} and {b}")
 
 print("hello world")
 print("Kiya hal ha pakistan")
+
+print("python")
