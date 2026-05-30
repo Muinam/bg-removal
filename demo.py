@@ -8,3 +8,4 @@ print("Kiya hal ha pakistan")
 
 print("python")
 print("kiya ho rha ha")
+print("kiya hona chahiya")
