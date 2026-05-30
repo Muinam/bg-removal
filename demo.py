@@ -6,6 +6,7 @@ print(f"what is the value of {a} and {b}")
 print("hello world")
 print("Kiya hal ha pakistan")
 
+print("hor sunao sonuo")
 print("python")
 print("kiya ho rha ha")
 print("kiya hona chahiya")
