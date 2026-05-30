@@ -7,6 +7,3 @@ print("hello world")
 print("Kiya hal ha pakistan")
 
 print("hor sunao sonuo")
-print("python")
-print("kiya ho rha ha")
-print("kiya hona chahiya")
