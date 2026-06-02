@@ -7,3 +7,4 @@ print("hello world")
 print("Kiya hal ha pakistan")
 
 print("hor sunao sonuo")
+print(a+b)
