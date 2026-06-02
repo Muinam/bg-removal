@@ -8,3 +8,4 @@ print("Kiya hal ha pakistan")
 
 print("hor sunao sonuo")
 print(a+b)
+print("ni ni done")
